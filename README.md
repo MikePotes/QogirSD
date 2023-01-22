@@ -15,3 +15,5 @@ definitions, so it is quite easy to change colors.
 https://github.com/vinceliuice/Qogir-theme
 
 https://github.com/horst3180/arc-theme
+
+See the Wiki for images and installation .
